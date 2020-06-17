@@ -48,7 +48,7 @@
                 {
                     "type": "git",
                     "branch": "release-0.1.1",
-                    "commit": "2530c046221420968cf0eb92d9880824343f6441",
+                    "commit": "749931c0026af99ba4e91cd727a1ab29193046b5",
                     "url": "https://gitlab.gnome.org/jvieira.tpt/metronome"
                 }
             ]
